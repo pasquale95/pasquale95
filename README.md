@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="./hero.gif">
+
+### Welcome to my Github! <img src="./wave.gif" width="30px">
+
+My name is Pasquale Convertini and I am a **software engineer** with a **cybersecurity** background. You can find me on [LinkedIn](https://www.linkedin.com/in/pasqualeconvertini95).
 
 <!--
 **pasquale95/pasquale95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
