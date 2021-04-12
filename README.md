@@ -6,10 +6,10 @@
 <h2><img src="./media/wave.gif" width="25px"> Welcome to my Github!</h2>
     <p align="center">
         <a href="https://twitter.com/intent/follow?screen_name=p_convertini">
-            <img src="https://img.shields.io/twitter/follow/p_convertini?label=Follow" />
+            <img alt="Twitter" src="https://img.shields.io/twitter/follow/p_convertini?label=Follow" />
         </a>
         <a href="https://www.linkedin.com/in/pasqualeconvertini95/">
-            <img src="https://img.shields.io/badge/-pasqualeconvertini95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pasqualeconvertini95/" />
+            <img alt="Linkedin" src="https://img.shields.io/badge/-pasqualeconvertini95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pasqualeconvertini95/" />
         </a>
         <a href="https://github.com/pasquale95?tab=followers">
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/pasquale95?color=green&logo=github">
