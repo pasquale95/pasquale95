@@ -39,7 +39,7 @@
 <div name="code">
     <h2><img src="https://emojis.slackmojis.com/emojis/images/1616578805/23995/hammer.gif?1616578805" width="25"/> Things I code with</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasquale95&theme=gotham" alt="pasquale95" align="right" style="padding=10%"/>
-    <center name="tags">
+    <div name="tags" align="center">
         <!-- LANGUAGES -->
         <img alt="java" src="https://img.shields.io/badge/-Java-DD0031?style=flat-square&logo=java&logoColor=white"/>
         <img alt="php" src="https://img.shields.io/badge/-PHP-764ABC?style=flat-square&logo=php&logoColor=white"/>
@@ -59,5 +59,5 @@
         <img alt="vim" src="https://img.shields.io/badge/-Vim-43853d?style=flat-square&logo=vim&logoColor=white"/>
         <img alt="intellij" src="https://img.shields.io/badge/-IntelliJ%20IDEA-1a73e8?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SW50ZWxsaUogSURFQSBpY29uPC90aXRsZT48cGF0aCBkPSJNMCAwdjI0aDI0VjB6bTMuNzIzIDMuMTExaDV2MS44MzRoLTEuMzl2Ni4yNzdoMS4zOXYxLjgzNGgtNXYtMS44MzRoMS40NDRWNC45NDVIMy43MjN6bTExLjA1NSAwSDE3djYuNWMwIC42MTItLjA1NSAxLjExMS0uMjIyIDEuNTU2LS4xNjcuNDQ0LS4zOS43NzctLjcyMyAxLjExLS4yNzcuMjc5LS42NjYuNTU3LTEuMTEuNjY4YTMuOTMzIDMuOTMzIDAgMCAxLTEuNDQ1LjI3OGMtLjc3OCAwLTEuNDQ0LS4xNjctMS45NDQtLjQ0NWE0LjgxIDQuODEgMCAwIDEtMS4yNzktMS4wNTZsMS4zOS0xLjU1NWMuMjc3LjMzNC41NTUuNTU1LjgzMy43MjIuMjc3LjE2Ny42MTEuMjc4Ljk0NS4yNzguMzg5IDAgLjcyMS0uMTExIDEtLjM4OS4yMjEtLjI3OC4zMzMtLjY2Ny4zMzMtMS4yNzh6TTIuMjIyIDE5LjVoOVYyMWgtOXoiLz48L3N2Zz4="/>
         <img alt="phpstorm" src="https://img.shields.io/badge/-PhpStorm-764ABC?style=flat-square&logo=phpstorm&logoColor=white"/>
-    </center>
+    </div>
 </div>
