@@ -26,7 +26,6 @@
 
 <div name="info">
     <h2><img src="./media/sunglasses.gif" width="25"/> Something about me</h2>
-    <p>Here some information about me:</p>
     <img src="https://github-readme-stats.vercel.app/api?username=pasquale95&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=3498db" alt="pasquale95 Stats" align="right"/>
     <div>
         <ul>
