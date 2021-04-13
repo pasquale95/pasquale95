@@ -3,7 +3,7 @@
 </div>
 
 <div name="welcome">
-<h2><img src="./media/wave.gif" width="25px"> Welcome to my Github!</h2>
+<h2><img src="./media/wave.gif" width="25px"> Welcome to my GitHub!</h2>
     <p align="center">
         <a href="https://www.linkedin.com/in/pasqualeconvertini95/">
             <img alt="Linkedin" src="https://img.shields.io/badge/-pasqualeconvertini95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pasqualeconvertini95/" />
@@ -24,9 +24,9 @@
     <p>Hi there! My name is Pasquale Convertini and I am a Software Engineer with a passion for coding and cybersecurity. If you have the same passions don't hesitate to have a look to my repos, I'm sure you'll find out something interesting.</p>
 </div>
 
-<div name="welcome">
+<div name="info">
     <h2><img src="./media/sunglasses.gif" width="25"/> Something about me</h2>
-    <p>Here some info about me:</p>
+    <p>Here some information about me:</p>
     <img src="https://github-readme-stats.vercel.app/api?username=pasquale95&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=3498db" alt="pasquale95 Stats" align="right"/>
     <div>
         <ul>
