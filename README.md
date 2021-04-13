@@ -5,17 +5,20 @@
 <div name="welcome">
 <h2><img src="./media/wave.gif" width="25px"> Welcome to my Github!</h2>
     <p align="center">
-        <a href="https://twitter.com/intent/follow?screen_name=p_convertini">
-            <img alt="Twitter" src="https://img.shields.io/twitter/follow/p_convertini?label=Follow" />
-        </a>
         <a href="https://www.linkedin.com/in/pasqualeconvertini95/">
             <img alt="Linkedin" src="https://img.shields.io/badge/-pasqualeconvertini95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pasqualeconvertini95/" />
+        </a>
+        <a href="https://twitter.com/intent/follow?screen_name=p_convertini">
+            <img alt="Twitter" src="https://img.shields.io/twitter/follow/p_convertini?label=Follow" />
         </a>
         <a href="https://github.com/pasquale95?tab=followers">
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/pasquale95?color=green&logo=github">
         </a>
         <a href="https://stackoverflow.com/users/7845338">
             <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7845338?color=orange&label=reputation&logo=stackoverflow">
+        </a>
+        <a href="mailto:pasqualeconvertini95@gmail.com">
+            <img alt="Linkedin" src="https://img.shields.io/badge/-pasqualeconvertini95-red?style=flat-square&logo=Gmail&logoColor=white" />
         </a>
     </p>
     <p>Hi there! My name is Pasquale Convertini and I am a Software Engineer with a passion for coding and cybersecurity. If you have the same passions don't hesitate to have a look to my repos, I'm sure you'll find out something interesting.</p>
@@ -36,9 +39,11 @@
     </div>
 </div>
 
+
 <div name="code">
     <h2><img src="https://emojis.slackmojis.com/emojis/images/1616578805/23995/hammer.gif?1616578805" width="25"/> Things I code with</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasquale95&theme=gotham" alt="pasquale95" align="right" style="padding=10%"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pasquale95&layout=compact&langs_count=8&theme=gotham" alt="pasquale95" align="right" style="padding=10%"/>
+    <br>
     <div name="tags" align="center">
         <!-- LANGUAGES -->
         <img alt="java" src="https://img.shields.io/badge/-Java-DD0031?style=flat-square&logo=java&logoColor=white"/>
