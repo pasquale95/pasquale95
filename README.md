@@ -29,7 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=pasquale95&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=3498db" alt="pasquale95 Stats" align="right"/>
     <div>
         <ul>
-            <li>📍 I'm from Italy, but besides pizza <img src="./media/pizza.gif" width="20px">, I also like playing <b>CTFs</b> and <b>coding challenges</b>;</li>
+            <li>📍 I'm from Italy, but besides pizza <img src="./media/pizza.gif" width="20">, I also like playing <b>CTFs</b> and <b>coding challenges</b>;</li>
             <li>⚙️ I'm currently working as a <b>Full Stack Engineer</b>;</li>
             <li>🐧 I'm a <b>Linux</b> lover;</li>
             <li>🔑 I'm currently learning <b>Blockchain</b>;</li>
