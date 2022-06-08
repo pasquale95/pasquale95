@@ -3,7 +3,7 @@
 </div>
 
 <div name="welcome">
-<h2><img src="./media/wave.gif" width="25px"> Welcome to my GitHub!</h2>
+<h2><img src="./media/wave.gif" width="25"> Welcome to my GitHub!</h2>
     <p align="center">
         <a href="https://www.linkedin.com/in/pasqualeconvertini95/">
             <img alt="Linkedin" src="https://img.shields.io/badge/-pasqualeconvertini95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pasqualeconvertini95/" />
