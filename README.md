@@ -30,7 +30,7 @@
     <div>
         <ul>
             <li>📍 I'm from Italy, but besides pizza <img src="./media/pizza.gif" width="20">, I also like playing <b>CTFs</b> and <b>coding challenges</b>;</li>
-            <li>⚙️ I'm currently working as a <b>Full Stack Engineer</b>;</li>
+            <li>⚙️ I'm currently working as a <b>Software Engineer</b>;</li>
             <li>🐧 I'm a <b>Linux</b> lover;</li>
             <li>🔑 I'm currently learning <b>Blockchain</b>;</li>
             <li>📙 I like <b>cybersec</b> and <b>algorithm-related</b> books.</li>
