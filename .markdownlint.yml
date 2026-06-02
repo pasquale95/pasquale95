@@ -1,0 +1,5 @@
+# GitHub profile READMEs commonly use HTML wrappers and long badge URLs.
+MD013: false # line-length
+MD033: false # no-inline-html
+MD036: false # no-emphasis-as-heading
+MD041: false # first-line-heading
